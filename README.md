@@ -1,1 +1,1 @@
-![](DiceRoller_Lab)
+![](DiceRoller_Lab.gif)
